@@ -12,7 +12,7 @@ Then place the Token you want to keep online in the token.json file, and run the
 
 *(If you don't know how to get your token there are tons of tutorials on Youtube)*
 
-**Note: The exe might get flagged as a virus since pyinstaller compiles it in a weird way ([Virus Total](https://www.virustotal.com/gui/file/4db3451019ab8150b10f0e506da4d81634d21e13a7d15614f4634d91c0e4ca4d/detection))**
+**Note: The exe might get flagged as a virus since pyinstaller compiles it in a weird way ([Virus Total](https://www.virustotal.com/gui/file/326bae8984d4a14cdef0d3dbccbb5e44ea2cbc3fb8c0b77864077b2650aeac22/detection))**
 
 ## Modify
 
