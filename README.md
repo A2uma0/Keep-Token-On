@@ -10,10 +10,12 @@ You also get notified everytime someone pings or dms you.
 Either download the Pre-Compiled Exe from the releases tab, or just download the whole repo.
 Then place the Token you want to keep online in the token.json file, and run the Exe or python script.
 
-
-
 *(If you don't know how to get your token there are tons of tutorials on Youtube)*
 
 **Note: The exe might get flagged as a virus since pyinstaller compiles it in a weird way ([Virus Total](https://www.virustotal.com/gui/file/4db3451019ab8150b10f0e506da4d81634d21e13a7d15614f4634d91c0e4ca4d/detection))**
+
+## Modify
+
+If you want to change the Status for example you can do that in the code, I left some examples as well.
 
 **If you find any bugs please let me now by opening a Issue!**
