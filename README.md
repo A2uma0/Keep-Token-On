@@ -1,6 +1,6 @@
 # Keep-Token-On
 
-This is a simple python script which helps you manage, and keep discord tokens online.
+This is a simple python script which helps you manage and keep discord tokens online.
 You also get notified everytime someone pings or dms you.
 
 <img src="https://github.com/A2uma0/Keep-Token-On/blob/main/online.gif" alt="gif">
