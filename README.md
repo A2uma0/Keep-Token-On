@@ -16,6 +16,6 @@ Then place the Token you want to keep online in the token.json file, and run the
 
 ## Modify
 
-If you want to change the Status for example you can do that in the code, I left some examples as well.
+If you want to change the Status for example, you can do that in the code. I left some examples as well.
 
 **If you find any bugs please let me now by opening a Issue!**
